@@ -1,0 +1,40 @@
+{
+  "Deep Dark": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Wyvern Lair": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "the_nether": {
+    "energyToOpen": 3686400,
+    "keepAlive": 1600,
+    "group": "netherOv"
+  },
+  "betweenlands": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "AetherI": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "overworld": {
+    "energyToOpen": 0,
+    "keepAlive": 0,
+    "group": "netherOv"
+  },
+  "the_end": {
+    "energyToOpen": 5529600,
+    "keepAlive": 2400
+  },
+  "ExtraUtils2_Quarry_Dim": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "twilight_forest": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  }
+}

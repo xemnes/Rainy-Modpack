@@ -1,0 +1,18 @@
+{
+    "name": "Holystone",
+    "read_by_default": "true",
+    "icon": "aether_legacy:holystone",
+    "category": "subcategories_aethercont",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:holystone_pressure_plate",
+      "recipe2": "aether_legacy_addon:holystone_button"
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:holystone_lever"
+	}
+  ]
+} 

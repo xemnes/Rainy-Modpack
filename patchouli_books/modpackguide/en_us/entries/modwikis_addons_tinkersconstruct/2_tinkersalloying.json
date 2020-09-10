@@ -1,0 +1,20 @@
+{
+    "name": "Tinkers Alloying (TAIGA)",
+    "read_by_default": "true",
+    "icon": "taiga:vibranium_ingot",
+    "category": "addons",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Tinkers Alloying (TAIGA)",
+      "item": "taiga:vibranium_ingot",
+      "text": "TAIGA is an addon for tinkers construct. It aims to find new minable ores, new alloys and a bunch of new tinker traits for them."
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "- 20 new Ores and Blocks$(br2)- 28 alloys$(br2)- Unique Traits$(br2)- In-game Tinkers Construct book integration"
+    }
+  ]
+}

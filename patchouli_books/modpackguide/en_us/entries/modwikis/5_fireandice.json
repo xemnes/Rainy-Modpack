@@ -1,0 +1,21 @@
+{
+    "name": "Ice and Fire",
+    "read_by_default": "true",
+    "icon": "iceandfire:dragon_skull",
+    "category": "modwikis",
+	"sortnum": "5",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Ice and Fire",
+      "item": "iceandfire:dragon_skull",
+      "text": "Ice and Fire is a medieval themed mod that not only adds dragons but also other creatures from various mythologies along with new armour. Dragons can be tamed and riden.$(br2)$(l:https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki)Ice and Fire Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/iceandfire.png" ],
+      "text": "A dragon in its nest."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Scrolls",
+    "read_by_default": "true",
+    "icon": "tombstone:crafting_ingredient",
+    "category": "subcategories_tombstone",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "tombstone:strange_scroll",
+      "text": "The base scroll used for all the scroll types."
+    },
+	{
+      "type": "crafting",
+      "title": "Scroll of Knowledge",
+      "recipe": "tombstone:scroll_of_knowledge",
+      "text": "Used to store your experience inside the scroll.$(br2)Use on a soul to store all your experience in the scroll.$(br2)Use the scroll again when its glowing to restore the experience inside the scroll."
+    },
+	{
+      "type": "crafting",
+      "title": "Scroll of Preservation",
+      "recipe": "tombstone:scroll_of_preservation",
+      "text": "The scroll will allow you to keep your experience and active effects applied to you on death.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	      "title": "Scroll of Intangibility",
+      "recipe": "tombstone:scroll_of_unstable_intangibleness",
+      "text": "The scroll will prevent damge for a whole second, every 5 seconds.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	  "title": "Scroll of FeatherFalling",
+      "recipe": "tombstone:scroll_of_feather_fall",
+      "text": "The scroll causes you to fall slowly, you also take no damage when you land.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	  "title": "Scroll of Purification",
+      "recipe": "tombstone:scroll_of_purification",
+      "text": "The scroll gives you and effect that removes your negative effects throught its duration.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	  "title": "Scroll of TrueSight",
+      "recipe": "tombstone:scroll_of_true_sight",
+      "text": "The scroll will gives you night vision.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	  "title": "Scroll of Reach",
+      "recipe": "tombstone:scroll_of_reach",
+      "text": "The scroll increases your reach.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    },
+	{
+      "type": "crafting",
+	  "title": "Scroll of Lightning",
+      "recipe": "tombstone:scroll_of_lightning_resistance",
+      "text": "The scroll prevents lightning damage.$(br2)Use on a soul to activate the effect$(br2)Effect lasts 11 minutes."
+    }
+  ]
+} 

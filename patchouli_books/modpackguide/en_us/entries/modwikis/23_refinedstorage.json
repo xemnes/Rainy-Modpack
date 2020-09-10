@@ -1,0 +1,21 @@
+{
+    "name": "Refined Storage",
+    "read_by_default": "true",
+    "icon": "refinedstorage:storage_housing",
+    "category": "modwikis",
+	"sortnum": "23",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Refined Storage",
+      "item": "refinedstorage:storage_housing",
+      "text": "Refined Storage is a mass storage mod that offers the player a network-based storage system, allowing them to store items and fluids on a massively expandable device network.$(br2)$(l:https://refinedmods.com/refined-storage/wiki/)Refined Storage Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/refinedstorage1.png", "modpackguide:textures/refinedstorage2.png", "modpackguide:textures/refinedstorage3.png" ],
+      "text": "Very clean setups for your storage networks."
+    }
+  ]
+} 

@@ -1,0 +1,50 @@
+{
+    "name": "Waystones",
+    "read_by_default": "true",
+    "icon": "waystones:waystone",
+    "category": "modwikis",
+	"sortnum": "26",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Waystones",
+      "item": "waystones:waystone",
+      "text": "The primary content of the Waystones mod is the Waystone, a structure that generates in villages and can also generate randomly in the world (albeit very rarely). They are also craftable.$(br2)See page 3 for explainations and recipes."
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "- Craftable Waystones for Survival Mode$(br2)- Teleporting between Waystones or using a Warp Scroll or rechargeable Warp Stone$(br2)- Sharing of activated Waystones through Bound Scrolls$(br2)- Global Waystones for Multiplayer Servers and Adventure Maps"
+    },
+	{
+      "type": "crafting",
+      "recipe": "waystones:warp_stone",
+      "recipe2": "waystones:waystone"
+    },
+	{
+      "type": "text",
+      "text": "Crafted Waystones Can be placed to create a waypoint in the world.$(br2)$(l)Usage$()$(br)By right clicking a Waystone, you can open up a menu that will list all Waystones you have interacted with. You can use experience levels to teleport between different Waystones."
+    },
+	{
+      "type": "crafting",
+      "recipe": "waystones:return_scroll",
+      "text": "When consumed, it warps you to the last waystone you activated.$(br2)$(l)Usage$()$(br)To use the scroll, channel by holding the right button down."
+    },
+	{
+      "type": "crafting",
+      "recipe": "waystones:bound_scroll",
+      "text": "The Bound Scroll is an item added by Waystones. The Bound Scroll can be bound to an activated Waystone and when used will be consumed and teleport you to the Waystone it was bound to."
+    },
+	{
+      "type": "crafting",
+      "recipe": "waystones:warp_scroll",
+      "text": "A Warp Scroll when used, is consumed and teleports you to an active Waystone of your choice. If you have no active Waystones, it cannot be used."
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/waystones.png" ],
+      "text": "Activated Waystone (left) & Deactivated Waystone (right)"
+    }
+  ]
+} 

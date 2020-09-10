@@ -1,0 +1,41 @@
+{
+    "name": "Skyroot",
+    "read_by_default": "true",
+    "icon": "aether_legacy:skyroot_plank",
+    "category": "subcategories_aethercont",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:skyroot_door",
+      "recipe2": "aether_legacy_addon:skyroot_trapdoor"
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:skyroot_pressure_plate",
+      "recipe2": "aether_legacy_addon:skyroot_button"
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:skyroot_sign",
+      "recipe2": "aether_legacy_addon:skyroot_ladder"
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:skyroot_chest",
+      "recipe2": "aether_legacy_addon:skyroot_crafting_table"
+	},
+	{
+      "type": "crafting",
+      "title": "Skyroot Beds",
+      "recipe": "aether_legacy_addon:white_skyroot_bed",
+      "text": "$(l)Note:$()$(br)All skyroot bed colours are crafted the same way as the orange example."
+	},
+	{
+      "type": "crafting",
+      "title": "Colored Skyroot Beds",
+      "recipe": "aether_legacy_addon:orange_skyroot_bed",
+      "recipe2": "aether_legacy_addon:orange_skyroot_bed_from_white_skyroot_bed"
+	}
+  ]
+} 

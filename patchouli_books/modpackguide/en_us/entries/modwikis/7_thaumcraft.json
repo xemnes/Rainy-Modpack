@@ -1,0 +1,32 @@
+{
+    "name": "Thaumcraft 6",
+    "read_by_default": "true",
+    "icon": "thaumcraft:goggles",
+    "category": "modwikis",
+	"sortnum": "7",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thaumcraft 6",
+      "item": "thaumcraft:goggles",
+      "text": "Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker.$(br)This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.$(br2)$(l:https://minecraftguides.net/tc6/)Thaumcraft 6 Guide$(/l)"
+    },
+    {
+      "type": "spotlight",
+      "title": "Getting Started",
+      "item": "thaumcraft:crystal_ordo",
+      "text": "In order to begin Thaumaturgy, you need a Thaumonomicon.$(br)To get one, you must find some crystals underground and mine them.$(br)You will then be given further instructions from the chat.$(br2)The rest is then up to you to figure out, good luck!"
+    },
+	{
+      "type": "relations",
+      "title": "Addons",
+      "text": "These are the installed addons for Thaumcraft.",
+        "entries": [
+          "modwikis_addons_thaumcraft/1_inventoryscan",
+          "modwikis_addons_thaumcraft/2_thaumiccomputers",
+          "modwikis_addons_thaumcraft/3_thaumicgrid",
+          "modwikis_addons_thaumcraft/4_thaumicaugmentation"
+        ]
+    }
+  ]
+}

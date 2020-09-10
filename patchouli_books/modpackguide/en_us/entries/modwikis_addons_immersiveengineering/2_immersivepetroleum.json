@@ -1,0 +1,21 @@
+{
+    "name": "Immersive Petroleum",
+    "read_by_default": "true",
+    "icon": "forge:bucketfilled{FluidName:'oil',Amount:1000}",
+    "category": "addons",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Immersive Petroleum",
+      "item": "forge:bucketfilled{FluidName:'oil',Amount:1000}",
+      "text": "Immersive Petroleum is a lightweight content add-on for Immersive Engineering that introduces oil, oil extraction, and oil processing to the mod's tech progression."
+    },
+	{
+      "type": "spotlight",
+      "title": "Getting Started",
+      "item": "immersiveengineering:metal_device1:7",
+      "text": "First, you must locate an oil deposit buried deep below bedrock, The Core Sample Drill can be used to detect these reservoirs. Once a source of oil is discovered, Pumpjacks can be built to pump the Crude Oil to the surface.$(br2)Everything else from there can be found in your Immersive Engineering Manual."
+    }
+  ]
+}

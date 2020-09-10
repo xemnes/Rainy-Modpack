@@ -1,0 +1,20 @@
+{
+    "name": "Minecraft Comes Alive",
+    "read_by_default": "true",
+    "icon": "mca:wedding_ring",
+    "category": "modwikis",
+	"sortnum": "32",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Minecraft Comes Alive",
+      "item": "mca:wedding_ring",
+      "text": "Say goodbye to Minecraft's annoying and boring villagers! Minecraft Comes Alive does just that - it breathes new life into the game by completely changing the villagers from 'caveman squidwards' into humans with professions, interractions & Relationships.$(br2)$(l:http://www.radix-shock.com/mca--how-to-play.html)MCA Guide$(/l)"
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "- 13 new professions.$(br2)- Over 500 unique skins.$(br2)- Villagers have genders and names.$(br2)- Talk to villagers.$(br2)- Build relationships, marry and have children.$(br2)- Trade using the default Minecraft trading system."
+    }
+  ]
+} 

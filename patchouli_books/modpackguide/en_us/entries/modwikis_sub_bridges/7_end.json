@@ -1,0 +1,21 @@
+{
+    "name": "Bridge Ends",
+    "read_by_default": "true",
+    "icon": "mcwbridges:rope_spruce_bridge_end",
+    "category": "subcategories_bridges",
+	"sortnum": "7",
+  "pages": [
+	{
+      "type": "crafting",
+      "title": "Bridge Ends",
+      "recipe": "mcwbridges:iron_bridge_end",
+      "recipe2": "mcwbridges:stone_brick_bridge_end"
+    },
+	{
+      "type": "crafting",
+      "title": " ",
+      "recipe": "mcwbridges:oak_rope_end",
+      "text": "These bridges are end variants of their respective bridge types.$(br)These recipes work for all bridge types except for rail bridges as they do not have ends."
+    }
+  ]
+} 

@@ -1,0 +1,20 @@
+{
+    "name": "Tinkers Aether",
+    "read_by_default": "true",
+    "icon": "tinkersaether:dart_shooter",
+    "category": "addons",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Tinkers Aether",
+      "item": "tinkersaether:dart_shooter",
+      "text": "Tinkers Aether is an addon for Tinker's Construct which adds support for materials from the Aether."
+    },
+	{
+      "type": "text",
+      "title": "Materials & Traits",
+      "text": "Materials can be found here:$(br)$(l:https://github.com/Shnupbups/TinkersAether/wiki/Materials)Link$(/l)$(br2)Traits can be found here:$(br)$(l:https://github.com/Shnupbups/TinkersAether/wiki/Traits)Link$(/l)"
+    }
+  ]
+}

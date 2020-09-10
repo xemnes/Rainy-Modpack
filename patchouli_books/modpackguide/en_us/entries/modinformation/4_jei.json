@@ -1,0 +1,21 @@
+{
+    "name": "Crafting Guides (JEI)",
+    "read_by_default": "true",
+    "icon": "minecraft:knowledge_book",
+    "category": "modinformation",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Crafting Guides (JEI)",
+      "item": "minecraft:knowledge_book",
+      "text": "When in your inventory or in a crafting table, there will be a green book button. This opens your JEI Crafting Guide.$(br)JEI can show any crafting recipe and autofill crafting slots if the items are present.$(br2)You can search and bring up recipes used by other crafting type blocks from mods in the block list on the right."
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/jei.png" ],
+      "text": "The crafting guide is provided by Just Enough Items (JEI), the ultimate recipe indexing mod."
+    }
+  ]
+} 

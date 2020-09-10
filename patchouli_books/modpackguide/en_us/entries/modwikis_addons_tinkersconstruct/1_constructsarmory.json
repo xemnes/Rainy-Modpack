@@ -1,0 +1,21 @@
+{
+    "name": "Constructs Armory",
+    "read_by_default": "true",
+    "icon": "conarm:helmet",
+    "category": "addons",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Constructs Armory",
+      "item": "conarm:helmet",
+      "text": "An addon for Tinkers Construct, extends the craftability by adding armours."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "conarm:book",
+      "text": "Refer to your 'Materials and you - Armory Ammendum'. If you lose this, the crafting recipe to make another can be found above."
+    }
+  ]
+}

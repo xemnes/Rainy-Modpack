@@ -1,0 +1,21 @@
+{
+    "name": "BiblioCraft",
+    "read_by_default": "true",
+    "icon": "bibliocraft:bookcase",
+    "category": "modwikis",
+	"sortnum": "28",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "BiblioCraft",
+      "item": "bibliocraft:bookcase",
+      "text": "BiblioCraft is a mod which adds a number of useful blocks, that are aesthetically pleasing and are used to display items and equipment. Most of these blocks allow quick and easy access to the items displayed on them$(br2)$(l:https://www.bibliocraftmod.com/wiki/)bibliocraft Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/bibliocraft.png" ],
+      "text": "Display everything!"
+    }
+  ]
+} 

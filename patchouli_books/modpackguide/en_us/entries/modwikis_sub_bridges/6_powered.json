@@ -1,0 +1,15 @@
+{
+    "name": "Powered Rail Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:oak_rail_bridge_powered",
+    "category": "subcategories_bridges",
+	"sortnum": "6",
+  "pages": [
+	{
+      "type": "crafting",
+      "text": "Powered Rail Bridges",
+      "recipe": "mcwbridges:oak_rail_bridge_powered",
+      "text": "These bridges are a powered variant of the rail bridge.$(br)This recipe works for all rail bridge types."
+    }
+  ]
+} 

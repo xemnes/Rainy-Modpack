@@ -1,0 +1,28 @@
+{
+    "name": "Thaumic Computers",
+    "read_by_default": "true",
+    "icon": "thaumcomp:sealconnector",
+    "category": "addons",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thaumic Computers",
+      "item": "thaumcomp:sealconnector",
+      "text": "This mod adds drivers allowing OpenComputers to access Thaumcrafts blocks and items."
+    },
+	{
+      "type": "text",
+      "title": "Getting Started",
+      "text": "$(l)For blocks:$()$(br)1. Place an OpenComputers adapter next to a Thaumcraft block.$(br)2. The connected computer will see an aspect_container item in its components which reads the contents of the block.$(br)$(l)For items:$()$(br)1. Place an OpenComputers adapter or robot with an inventory controller upgrade next to a chest.$(br)2. Items in the inventory will include the Thaumcraft aspects on them."
+    },
+	{
+      "type": "text",
+      "text": "$(l)For Golem Seals:$()$(br)1. Craft a Golem Seal Connector in a standard crafting table.$(br)2. Right click on a seal while sneaking to bind the connector to that seal.$(br)3. Place the seal connector into an adapter in the same dimension."
+    },
+	{
+      "type": "crafting",
+      "recipe": "thaumcomp:itemsealconnector"
+    }
+  ]
+}

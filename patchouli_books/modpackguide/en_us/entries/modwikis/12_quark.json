@@ -1,0 +1,28 @@
+{
+    "name": "Quark",
+    "read_by_default": "true",
+    "icon": "quark:archaeologist_hat",
+    "category": "modwikis",
+	"sortnum": "12",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Quark",
+      "item": "quark:archaeologist_hat",
+      "text": "Quark is a fully modular mod with the objective of improving the vanilla gameplay experience. In other words, I would call it 'what I would add if I was hired at mojang - the mod'. Modules can be turned off and all features can be turned off individually. Some even have more in-depth configs.$(br2)$(l:https://quark.vazkii.net/#features)Quark Features List$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/quark.png" ],
+      "text": "Quark expands caves with biomes!"
+    },
+	{
+      "type": "relations",
+      "title": "Relations",
+        "entries": [
+          "modinformation/2_matrixenchanting"
+        ]
+    }
+  ]
+}

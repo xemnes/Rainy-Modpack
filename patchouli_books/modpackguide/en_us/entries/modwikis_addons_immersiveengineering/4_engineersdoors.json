@@ -1,0 +1,68 @@
+{
+    "name": "Engineers Doors",
+    "read_by_default": "true",
+    "icon": "engineersdoors:fencegate_steel",
+    "category": "addons",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Engineers Doors",
+      "item": "engineersdoors:fencegate_steel",
+      "text": "Adds a set of doors, trapdoors and fence gates with Immersive Engineering textures."
+    },
+	{
+      "type": "text",
+      "title": "Recipes",
+      "text": "$(br2)Refer to the next set of pages for crafting recipes."
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_treated",
+      "recipe2": "engineersdoors:door_treated_ornate"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_treated_reinforced",
+      "recipe2": "engineersdoors:door_treated_reset"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_steel",
+      "recipe2": "engineersdoors:door_steel_ornate"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_steel_reinforced",
+      "recipe2": "engineersdoors:door_steel_reset"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_concrete",
+      "recipe2": "engineersdoors:door_concrete_ornate"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:door_concrete_reinforced",
+      "recipe2": "engineersdoors:door_concrete_reset"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:trapdoor_treated",
+      "recipe2": "engineersdoors:trapdoor_steel"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:trapdoor_concrete"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:fencegate_treated",
+      "recipe2": "engineersdoors:fencegate_steel"
+    },
+	{
+      "type": "crafting",
+      "recipe": "engineersdoors:fencegate_aluminium"
+    }
+  ]
+}

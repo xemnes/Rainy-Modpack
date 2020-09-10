@@ -1,0 +1,58 @@
+{
+	"biomes":[
+		{
+		"conditions": "biome.name == 'Hell'",
+		"dust": true,
+		"dustColor": "255,102,0",
+		"fog": true,
+		"fogColor": "255,0,0",
+		"fogDensity": 0.6
+		},
+		{
+		"conditions": "biome.name == 'Fungi Forest'",
+		"fog": true,
+		"dustColor": "0,255,180",
+		"fogColor": "0,255,180",
+		"fogDensity": 0.3
+		},
+		{
+		"conditions": "biome.name == 'Phantasmagoric Inferno'",
+		"fog": true,
+		"dustColor": "0,186,255",
+		"fogColor": "0,186,255",
+		"fogDensity": 0.4
+		},
+		{
+		"conditions": "biome.name == 'Undergarden'",
+		"fog": true,
+		"dustColor": "30,255,0",
+		"fogColor": "30,255,0",
+		"fogDensity": 0.3
+		},
+		{
+		"conditions": "biome.name == 'Corrupted Sands'",
+		"fog": true,
+		"dustColor": "255,255,0",
+		"fogColor": "255,255,0",
+		"fogDensity": 0.4
+		}
+	],
+	"blocks":[
+	],
+	"items": {
+	},
+	"dimensions":[
+	],
+	"acoustics": {
+	},
+	"primitiveAcoustics": {
+	},
+	"footsteps":{
+	},
+	"forgeMappings":[
+	],
+	"variators": {
+	},
+	"entities": {
+	}
+}

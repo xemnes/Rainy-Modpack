@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "iceandfire:silver_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/iceandfire/silver",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  }
+]

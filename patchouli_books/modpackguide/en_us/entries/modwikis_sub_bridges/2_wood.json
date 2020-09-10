@@ -1,0 +1,24 @@
+{
+    "name": "Wooden Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:oak_log_bridge_middle",
+    "category": "subcategories_bridges",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:oak_log_bridge_middle",
+      "recipe2": "mcwbridges:birch_log_bridge_middle"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:spruce_log_bridge_middle",
+      "recipe2": "mcwbridges:jungle_log_bridge_middle"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:dark_oak_log_bridge_middle",
+      "recipe2": "mcwbridges:acacia_log_bridge_middle"
+    }
+  ]
+} 

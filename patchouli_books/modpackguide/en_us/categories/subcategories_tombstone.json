@@ -1,0 +1,7 @@
+{
+	"name": "Corail Tombstone Recipes",
+	"secret": "true",
+	"parent": "modwikis",
+	"description": "These are the recipes for Corail Tombstone",
+	"icon": "modpackguide:textures/icons/category_hidden.png"
+}

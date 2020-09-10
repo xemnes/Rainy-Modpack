@@ -1,0 +1,110 @@
+{
+    "name": "Corail Tombstone",
+    "read_by_default": "true",
+    "extra_recipe_mappings": {
+		"minecraft:grass": 1
+	},
+    "icon": "tombstone:decorative_grave_simple",
+    "category": "modwikis",
+	"sortnum": "36",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Corail Tombstone",
+      "item": "tombstone:decorative_grave_simple",
+      "text": "Corail Tombstone prevents you from losing your belongings on death by keeping them in a grave, with many features of survivability and dimensional teleportation centered around grave's souls.$(br)It also introduces a perk tree, Knowledge of Death, and a magic system based on some items with the help from Souls haunting Decorative Graves."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "tombstone:enchanted_grave_key",
+      "text": "When you die, a grave near your death point with your items will be created. When you respawn, you are given a key which will highlight your grave when held, this key also unlocks your grave. The key can be enchanted to teleport to your grave. (recipe above)"
+    },
+	{
+      "type": "image",
+      "title": "Knowledge of Death",
+	  "border": "true",
+      "images": [ "modpackguide:textures/gravestone.png" ],
+      "text": "Press $(k:tombstone.message.knowledge_of_death) to open the Knowledge of Death menu."
+    },
+	{
+      "type": "text",
+      "text": "When you perform certain actions, you gain 'Knowledge points' which can be spent on perks. $(br2)Actions that gain Knowledge points:$(br)- Using a grave's soul to enchant an item$(br)- When a soul is freed from a receptacle$(br)- Praying near a decorative grave with an Ankh of Pray (with a cooldown of 6 in-game hours)$(br)- By accomplishing the tombstone advancements."
+    },
+	{
+      "type": "spotlight",
+      "title": "Decorative Graves",
+      "item": "tombstone:decorative_grave_simple",
+      "text": "Decorative graves primary purpose (other than being decorative) is to provide the player with souls.$(br2)Souls will sometimes fly over graves which can be caught, or be used to enchant items like scrolls or tablets.$(br2)Graves can be engraved on an anvil with an iron ingot."
+    },
+	{
+      "type": "text",
+      "title": "Souls",
+      "text": "Souls will occasionally appear hovering over a decorative grave.$(br2)Souls can be captured with a receptacle by right clicking the soul.$(br2)Items can be enchanted by right clicking a soul, these items include Scrolls, Tablets and Grave Keys."
+    },
+	{
+      "type": "spotlight",
+      "title": "Scrolls",
+      "item": "tombstone:crafting_ingredient",
+      "text": "Scrolls function similarly to potions. On activation, they will give you their respective effect.$(br2)Scrolls can be crafted but must then be enchanted by using them on a soul.$(br)Crafting recipes are found on the last page of this entry"
+    },
+	{
+      "type": "spotlight",
+      "title": "Tablets",
+      "item": "tombstone:crafting_ingredient:1",
+      "text": "Tablets activate teleport related abilities, such as locating a structure or teleporting to a dungeon.$(br2)Tablets can be crafted but must then be enchanted by using them on a soul, but not all tablets let you use the soul right away.$(br)Crafting recipes are found on the last page of this entry"
+    },
+	{
+      "type": "spotlight",
+      "title": "Receptacles",
+      "item": "tombstone:familiar_receptacle",
+      "text": "Receptacles can be used to capture a soul from a grave, this is will give you a Soul Receptacle.$(br2)Soul Receptacles can prevent death when in your inventory. Upon death, the Receptacle will break.$(br)They can also be used to store souls for later use on decorative graves."
+    },
+	{
+      "type": "crafting",
+      "title": "Ankh of Pray",
+      "recipe": "tombstone:ankh_of_pray",
+      "text": "Allows one to pray on a grave to earn some knowledge points, and can also be used on a soul to reset the perks tree (the soul is consumed)$(br2)The item has a cooldown of 6 in-game hours"
+    },
+	{
+      "type": "crafting",
+      "title": "Book of Disenchantment",
+      "recipe": "tombstone:book_of_disenchantment",
+      "text": "The Book of Disenchantment can strip enchantments from items with the help of a soul and turn them into enchanting books.$(br2)The item to disenchant must be in the left hand slot when the book is used on a grave soul."
+    },
+	{
+      "type": "text",
+      "title": "Enchantments",
+      "text": "$(l)Soulbound:$()$(br)The item with this enchantment will be kept on death.$(br2)$(l)Shadowstep:$()$(br)Reduces the distance that monsters detect you and slightly reduces falling damage. (sneaking increases effect. doesn't work while riding. Boots only.)$(br2)$(l)Magic Siphon:$()$(br)Absorbs beneficial effects from the target. (Weapons only)"
+    },
+	{
+      "type": "crafting",
+      "title": "Dust of Vanishing",
+      "recipe": "tombstone:dust_of_vanishing",
+      "text": "Allows you to quickly retreat from enemies that have seen you by teleporting you back a few steps."
+    },
+	{
+      "type": "crafting",
+      "title": "Unlucky Fishing",
+      "recipe": "tombstone:fishing_rod_of_misadventure",
+      "text": "A regular fishing rod, but you have very bad luck when fishing. Using on a soul makes makes the rod infinite but the unlucky effect worsens."
+    },
+	{
+      "type": "spotlight",
+      "title": "Grave's Dust",
+      "item": "tombstone:crafting_ingredient:3",
+      "text": "Grave's Dust is the base crafting ingredient required for most recipes in this mod, it is a 10% drop from undead monsters."
+    },
+	{
+      "type": "relations",
+      "title": "All Recipes",
+      "text": "All the recipes for Corail Tombstone can be found here, you can also bring them up in JEI",
+        "entries": [
+          "modwikis_sub_tombstone/1_graves",
+          "modwikis_sub_tombstone/2_scrolls",
+          "modwikis_sub_tombstone/3_tablets",
+          "modwikis_sub_tombstone/4_misc"
+        ]
+    }
+  ]
+} 

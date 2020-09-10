@@ -1,0 +1,21 @@
+{
+    "name": "Better Animals Plus",
+    "read_by_default": "true",
+    "icon": "betteranimalsplus:foxhead_3",
+    "category": "modwikis",
+	"sortnum": "34",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Better Animals Plus",
+      "item": "betteranimalsplus:foxhead_3",
+      "text": "BA+ seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to similar mods. BA+ adds many passive mobs, hostile mobs, and even a miniboss. Though animals is not where BA+ ends. There is more to it than it seems...$(br2)$(l:https://better-animals-plus.fandom.com/wiki/Better_Animals_Plus_Wiki)Better Animals Plus Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/bp.png" ],
+      "text": "Beautiful Fish."
+    }
+  ]
+} 

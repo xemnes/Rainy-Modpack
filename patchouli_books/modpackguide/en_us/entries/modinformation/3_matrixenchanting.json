@@ -1,0 +1,43 @@
+{
+    "name": "Matrix Enchanting",
+    "read_by_default": "true",
+    "icon": "minecraft:enchanting_table",
+    "category": "modinformation",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "crafting",
+      "title": "Matrix Enchanting",
+      "recipe": "minecraft:enchanting_table",
+      "text": "Matrix Enchanting is a complete overhaul of the enchanting system. Pieces can be generated using lapis and XP. The pieces then have to be laid on the grid to enchant the item. Pieces can be rotated and upgraded into higher levels."
+    },
+	{
+      "type": "text",
+      "title": "Basics",
+      "text": "- Click the '+' button to generate enchantment pieces once you have placed your lapis and your item you want to enchant.$(br2)- Lay out your enchantments in the grid like a puzzle, try to squeeze in as many as possible. Right click to rotate.$(br2)- Enchantments can be upgraded by placing a piece of the same type on top of a piece in the grid."
+    },
+	{
+      "type": "text",
+      "title": "Tips",
+      "text": "Incompatible pieces can never be generated - if you see a Fortune piece, you'll never see Silk Touch in that session.$(br2)You can use candles to manipulate what type of enchantments you'd like to get. Placing down up to 4 candles of a single type will enhance the chance you'll find a given enchantment."
+    },
+	{
+      "type": "spotlight",
+      "item": "quark:candle",
+      "title": "Candle Influences",
+      "text": "$(#aeaeae)$(l)White:$() Unbreaking$(br)$(#c35319)$(l)Orange:$() Fire Protection$(br)$(#b12d67)$(l)Magenta:$() Knockback, Punch$(br)$(#3596c3)$(l)Light Blue:$() Feather Falling$(br)$(#d0b129)$(l)Yellow:$() Looting, Fortune, Luck of the Sea$(br)$(#79c129)$(l)Lime:$() Blast Protection$(br)$(#ea6c83)$(l)Pink:$() Silk Touch, Channeling$(br)$(#4a4a4a)$(l)Gray:$() Bane of Arhtropods$(br)$(#7d7763)$(l)Light Gray:$() Protection$(br)$(#0e8383)$(l)Cyan:$() Respiration, Loyalty, Infinity"
+    },
+	{
+      "type": "text",
+      "title": "Candle Influences",
+      "text": "$(#712285)$(l)Purple:$() Sweeping Edge, Multishot$(br)$(#153692)$(l)Blue:$() Efficiency, Sharpness, Lure, Power, Impaling, Quick Charge$(br)$(#592b0a)$(l)Brown:$() Aqua Affinity, Depth Strider, Riptide$(br)$(#457912)$(l)Green:$() Thorns, Piercing$(br)$(#960f02)$(l)Red:$() Fire Aspect, Flame$(br)$(#26241e)$(l)Black:$() Smite, Projectile Protection"
+    },
+	{
+      "type": "relations",
+      "title": "Relations",
+        "entries": [
+          "modwikis/12_quark"
+        ]
+    }
+  ]
+} 

@@ -1,0 +1,7 @@
+{
+	"name": "Aether Continuation Recipes",
+	"secret": "true",
+	"parent": "modwikis",
+	"description": "These are the recipes for Aether Continuation Addon",
+	"icon": "modpackguide:textures/icons/category_hidden.png"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Bridge Types",
+	"secret": "true",
+	"parent": "modwikis",
+	"description": "These are the bridge types and recipes for Macaw's Bridges",
+	"icon": "modpackguide:textures/icons/category_hidden.png"
+}

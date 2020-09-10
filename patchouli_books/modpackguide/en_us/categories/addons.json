@@ -1,0 +1,7 @@
+{
+	"name": "Addons",
+	"secret": "true",
+	"parent": "modwikis",
+	"description": "These are the addons for the installed mods.",
+	"icon": "modpackguide:textures/icons/category_hidden.png"
+}

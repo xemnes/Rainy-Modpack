@@ -1,0 +1,20 @@
+{
+    "name": "Thaumic Augmentation",
+    "read_by_default": "true",
+    "icon": "thaumicaugmentation:gauntlet",
+    "category": "addons",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thaumic Augmentation",
+      "item": "thaumicaugmentation:gauntlet",
+      "text": "A Thaumcraft addon that adds in new tools, machines, a new dimension and an augmentable gauntlet.$(br2)Please refer to the $(l:https://github.com/TheCodex6824/ThaumicAugmentation/wiki/FAQ)FAQ$(/l)if you run into any issues and have questions."
+    },
+	{
+      "type": "text",
+      "title": "Getting Started",
+      "text": "All of the content in this mod is contained in the 'Thaumic Augmentation' tab in the Thaumonomicon. It will appear after completing the 'First Steps' research. Note that some research is hidden at first - playing through the regular Thaumcraft research will make them appear."
+    }
+  ]
+}

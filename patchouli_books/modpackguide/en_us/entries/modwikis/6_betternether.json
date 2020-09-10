@@ -1,0 +1,21 @@
+{
+    "name": "Better Nether",
+    "read_by_default": "true",
+    "icon": "betternether:nether_grass",
+    "category": "modwikis",
+	"sortnum": "6",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Better Nether",
+      "item": "betternether:nether_grass",
+      "text": "Better Nether drastically overhauls the look and feel of the nether by adding new biomes, plants, mobs and crafting recipes.$(br2)$(l:https://github.com/paulevsGitch/BetterNether/wiki)Better Nether Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/betternether.png" ],
+      "text": "The landscape is somewhat beautiful but also dangerous."
+    }
+  ]
+}

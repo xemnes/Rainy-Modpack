@@ -1,0 +1,114 @@
+[
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_copper",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_tin",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_lead",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_silver",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_nickel",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal",
+    "meta": 5,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_zinc",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_iron",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_gold",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_copper",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_tin",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_lead",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 5,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_silver",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 6,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_nickel",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "railcraft:ore_metal_poor",
+    "meta": 7,
+    "overlay": "undergroundbiomes:blocks/overlays/railcraft/ore_poor_zinc",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  }
+]

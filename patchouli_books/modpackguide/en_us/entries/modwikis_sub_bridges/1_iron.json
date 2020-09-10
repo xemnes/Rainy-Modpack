@@ -1,0 +1,19 @@
+{
+    "name": "Iron Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:most1",
+    "category": "subcategories_bridges",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:iron_rod",
+      "recipe2": "mcwbridges:iron_armrest"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:iron_platform",
+      "recipe2": "mcwbridges:iron_bridge_middle"
+    }
+  ]
+} 

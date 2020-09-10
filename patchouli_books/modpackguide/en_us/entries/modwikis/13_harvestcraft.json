@@ -1,0 +1,28 @@
+{
+    "name": "HarvestCraft",
+    "read_by_default": "true",
+    "icon": "harvestcraft:blackberryitem",
+    "category": "modwikis",
+	"sortnum": "13",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "HarvestCraft",
+      "item": "harvestcraft:blackberryitem",
+      "text": "Adds crops that can be harvested and replanted, crops that can be picked off a plant over and over again, and fruits that grow from trees. You can craft cookery items and use them, harvest crops, and cook an amazing amount of food that you would never find in vanilla Minecraft!$(br2)$(l:https://harvestcraftmod.fandom.com/wiki/HarvestCraft_Wiki)HarvestCraft Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "title": "Getting Started",
+      "images": [ "modpackguide:textures/harvestcraft.png" ],
+      "text": "Getting fruits and seeds is as easy as finding them on trees or from 'gardens'."
+    },
+	{
+      "type": "spotlight",
+      "title": "Gardens",
+      "item": "harvestcraft:windygarden",
+      "text": "Gardens can be found throughout the world in their respective biomes. When broken, they will drop an assortment of seeds and berries which can be used for your needs.$(br2)There are 6 types of garden to be found, see the wiki for more information."
+    }
+  ]
+}

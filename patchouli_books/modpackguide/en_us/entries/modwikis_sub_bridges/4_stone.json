@@ -1,0 +1,19 @@
+{
+    "name": "Stone Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:stone_brick_bridge",
+    "category": "subcategories_bridges",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:stone_brick_bridge",
+      "recipe2": "mcwbridges:brick_bridge"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:sandstone_bridge",
+      "recipe2": "mcwbridges:orange_sandstone_bridge"
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+{
+    "name": "Miscelaneous",
+    "read_by_default": "true",
+    "icon": "tombstone:familiar_receptacle",
+    "category": "subcategories_tombstone",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "tombstone:familiar_receptacle",
+      "recipe2": "tombstone:impregnated_diamond"
+    },
+	{
+      "type": "crafting",
+      "recipe": "tombstone:dark_marble",
+      "recipe2": "tombstone:white_marble"
+    }
+  ]
+} 

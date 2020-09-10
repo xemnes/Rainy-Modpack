@@ -1,0 +1,21 @@
+{
+    "name": "Biomes o' Plenty",
+    "read_by_default": "true",
+    "icon": "biomesoplenty:earth",
+    "category": "modwikis",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Biomes o' Plenty",
+      "item": "biomesoplenty:earth",
+      "text": "adds over 60 new biomes to Minecraft, ranging from a simple Marsh Biome, all the way to the lush and unique Mystic Grove! Many new items are also added alongside these biomes, including many new types of trees, plants, and even a few unique mobs! $(br2)$(l:https://biomesoplenty.fandom.com/wiki/Biomes_O%27_Plenty_Wiki)Biomes o' Plenty Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/biomesoplenty.png" ],
+      "text": "So many diverse biomes to explore."
+    }
+  ]
+}

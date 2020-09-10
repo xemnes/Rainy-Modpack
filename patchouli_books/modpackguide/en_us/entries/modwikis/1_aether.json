@@ -1,0 +1,51 @@
+{
+    "name": "The Aether",
+    "read_by_default": "true",
+    "icon": "aether_legacy:aether_portal_frame",
+    "category": "modwikis",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "The Aether",
+      "item": "aether_legacy:aether_portal_frame",
+      "text": "A sky dimension full of heaven themed ideas and its own tools/armour. Adds 4 new dungeons with bosses to take on and a dangerous world to traverse.$(br2)$(l:https://aether.gamepedia.com/Aether_I)The Aether Wiki$(/l)"
+    },
+    {
+      "type": "multiblock",
+      "name": "Aether Portal",
+      "text": "Use glowstone for the portal frame, then empty a bucket of water inside the frame to activate it.",
+      "multiblock": {
+        "pattern": [
+			[ " GG " ],
+			[ "GPPG" ],
+			[ "GPPG" ],
+			[ "G0PG" ],
+			[ " GG " ]
+		],
+        "mapping": {
+          "0": "aether_legacy:aether_portal[axis=z]",
+          " ": "ANY",
+          "P": "aether_legacy:aether_portal[axis=z]",
+          "G": "minecraft:glowstone"
+        }
+	  }
+    },
+	{
+      "type": "crafting",
+      "title": "The Book of Lore",
+      "recipe": "aether_legacy:book_of_lore",
+      "text": "This book is your guide in the Aether, refer to it if you need to know anything, or use the wiki.$(br2)You were given this book when you first logged in. If you lose this, the recipe is above"
+    },
+	{
+      "type": "relations",
+      "title": "Addons",
+      "text": "These are the installed addons for The Aether.",
+        "entries": [
+          "modwikis_addons_aether/1_lostaethercontent",
+          "modwikis_addons_aether/2_aethercontinuation",
+          "modwikis_addons_tinkersconstruct/3_tinkersaether"
+        ]
+    }
+  ]
+}

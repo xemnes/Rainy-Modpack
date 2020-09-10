@@ -1,0 +1,32 @@
+{
+    "name": "Chisels & Bits",
+    "read_by_default": "true",
+    "icon": "chiselsandbits:chisel_diamond",
+    "category": "modwikis",
+	"sortnum": "30",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Chisels & Bits",
+      "item": "chiselsandbits:chisel_diamond",
+      "text": "This mod adds several chisels, a wrench and ways to copy designs and store chiseled bits. These tools enable you to create new custom decorative blocks and designs to decorate your bases and improve the flexibility of your building.$(l:https://algorithmx2.github.io/Chisels-and-Bits/)Chisels & Bits Wiki$(/l)$(br2)Turn over to the next page for Extra Bit Manipulation"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/chiselsandbits.png" ],
+      "text": "A work in prograss ornate staircase made with Chisels & Bits"
+    },
+	{
+      "type": "spotlight",
+      "title": "Extra Bit Manipulation",
+      "item": "extrabitmanipulation:sculpting_loop",
+      "text": "A Chisels & Bits addon which extends the Chisels & Cits arsenal with tools that can quickly create or sculpt shapes out of chiseled bits.$(l:https://www.curseforge.com/minecraft/mc-mods/extra-bit-manipulation/pages/items)Extra Bit Manipulation Wiki$(/l)"
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "A wrench that rotates/ mirrors/translates chiseled blocks.$(br2)Sculpting tools that remove/ add cuboid/spheric/cylindric/ conic/pyramid areas of bits.$(br2)A modeling tool that makes chiseled block models of 16^3 areas.$(br2)Armor pieces that render chiseled blocks (and any item) as moving parts."
+    }
+  ]
+}

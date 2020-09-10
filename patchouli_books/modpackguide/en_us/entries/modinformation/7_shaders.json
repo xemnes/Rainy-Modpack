@@ -1,0 +1,19 @@
+{
+    "name": "Using a ShaderPack",
+    "read_by_default": "true",
+    "icon": "minecraft:writable_book",
+    "category": "modinformation",
+	"sortnum": "7",
+  "pages": [
+	{
+      "type": "text",
+      "title": "Using a ShaderPack",
+      "text": "The ShaderPack included in this mod is Complementary (a BSL Shaders edit). This shaderpack has partial support for some dimensions and may look odd in some places.$(br2)$(l)IMPORTANT:$()if you intend to turn on shaders, do it from the main menu rather than ingame. loading shaders from ingame can potentially cause the game to lock up or crash if youre low on memory."
+    },
+	{
+      "type": "text",
+      "title": "Information",
+      "text": "Shaders can be enabled in options > video settings > shaders$(br2)The ShaderPack can be customized from the 'shader options' button and can be done from ingame with no issue.$(br2)$(l)Note:$()Shaders are graphically intensive, expect low FPS on low-end graphics cards. Some graphical glitches can occur on Intel and AMD graphics."
+    }
+  ]
+} 

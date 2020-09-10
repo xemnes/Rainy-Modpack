@@ -1,0 +1,39 @@
+{
+    "name": "Twilight Forest",
+    "read_by_default": "true",
+    "icon": "twilightforest:miniature_structure",
+    "category": "modwikis",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Twilight Forest",
+      "item": "twilightforest:miniature_structure",
+      "text": "The Twilight Forest is a dimension with a dense twilit forest themed by real world mythology. adds many new blocks, mobs and mechanics.$(br2)$(l:http://benimatic.com/tfwiki/index.php?title=Main_Page)Twilight Forest Wiki$(/l)$(br2)Note: The portal can be created with any flower that's placable on grass."
+    },
+    {
+      "type": "multiblock",
+      "name": "Twilight Portal",
+      "text": "Throw a diamond into the water to activate the portal.",
+      "multiblock": {
+        "pattern": [
+          [ " FF ", "FAAF", "FAAF", " FF " ],
+          [ " GG ", "G0WG", "GWWG", " GG " ],
+          [ "    ", " DD ", " DD ", "    " ]
+        ],
+        "mapping": {
+          " ": "ANY",
+          "A": "AIR",
+          "0": "minecraft:water",
+          "W": "minecraft:water",
+          "F": "minecraft:red_flower",
+          "G": "minecraft:grass",
+          "D": "minecraft:dirt"
+        },
+        "symmetrical": true,
+        "offset"     : [0, 1, 0],
+        "view_offset": [0, 0, 0]
+      }
+    }
+  ]
+}

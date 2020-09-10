@@ -1,0 +1,33 @@
+{
+    "name": "Roots",
+    "read_by_default": "true",
+    "icon": "dynamictreesroots:wildwoodseed",
+    "category": "modwikis",
+	"sortnum": "15",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Roots",
+      "item": "dynamictreesroots:wildwoodseed",
+      "text": "Roots is a mod about discovering the natural, wild magic of the world. There are points where the Fey world can bleed over into our world, and these can be taken advantage of for crafting, rituals, spells, and maybe even more! Discover forgotten herbs, rituals & spells that bring tremendous power and utility."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "roots:guide",
+      "text": "'The Druidic Arts' is given to you when you first join the server. If you happen to lose this, refer to the crafting recipe above.$(br)Any sapling from any mod can be used in the recipe. Roots also offers a new way to craft paper and books (next page)"
+    },
+	{
+      "type": "crafting",
+      "title": "Additional Book Recipes",
+      "recipe": "roots:paper",
+      "recipe2": "roots:book"
+    },
+	{
+      "type": "crafting",
+      "title": "Mystical World",
+      "recipe": "mysticalworld:guide",
+      "text": "'This is the foundation mod for Roots, it adds a few new blocks and items that complement roots, the manual for this mod was given to you aswell, recipe above."
+    }
+  ]
+}

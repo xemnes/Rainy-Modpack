@@ -1,0 +1,41 @@
+{
+    "name": "Immersive Cables",
+    "read_by_default": "true",
+    "icon": "immersivecables:wire_coil:3",
+    "category": "addons",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Immersive Cables",
+      "item": "immersivecables:wire_coil:3",
+      "text": "Immersive Cables aims to bridge Immersive Engineering & Refined storage by allowing storage networks to use Immersive Engineering cables for power."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "immersivecables:wire_coil_refined_t",
+      "text": "Refined Fiber wire works like any other wire, but can be connected up to refined storage tech.$(br2)Refined Fiber wire has a max range of 16 blocks.$(br)Recipe can use any type of stick, not just treated ones."
+    },
+	{
+      "type": "crafting",
+      "recipe": "immersivecables:relay_refined",
+      "recipe2": "immersivecables:transformer_refined"
+    },
+	{
+      "type": "text",
+      "title": "Relay & Transformer",
+      "text": "$(l)Relays$()can only connect to other transformers via wire; Don't connect to cabling or machines; Allows multiple wire connections.$(br)Relays have a power drain of 2 RS/t each$(br2)$(l)Transformers$()Connect network cabling or machines on their bottom side to your wiring network; Doesn't allow multiple wire connections.$(br)Transformers have a power drain of 12 RS/t each."
+    },
+	{
+      "type": "crafting",
+      "recipe": "immersivecables:wire_coil_block_refined",
+      "text": "Required for use in transformer recipes, can also be placed as decoration."
+    },
+	{
+      "type": "crafting",
+      "recipe": "immersivecables:wire_coil_refined_t",
+      "text": "The alternate recipe mentioned for Refined wire coils."
+    }
+  ]
+}

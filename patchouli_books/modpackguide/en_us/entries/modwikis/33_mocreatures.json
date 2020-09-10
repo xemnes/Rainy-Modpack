@@ -1,0 +1,21 @@
+{
+    "name": "Mo' Creatures",
+    "read_by_default": "true",
+    "icon": "mocreatures:reptilehide",
+    "category": "modwikis",
+	"sortnum": "33",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Mo' Creatures",
+      "item": "mocreatures:reptilehide",
+      "text": "A mod which adds over 40 new mobs to your game, it provides many new animal and monster mobs, as well as the ability to tame and ride some.$(br2)$(l:https://mocreatures.fandom.com/wiki/Mo%27_Creatures_Wiki)Mo' Creatures Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/mocreatures.png" ],
+      "text": "A Tamable Elephant."
+    }
+  ]
+} 

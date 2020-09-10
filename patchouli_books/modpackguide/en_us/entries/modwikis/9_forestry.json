@@ -1,0 +1,31 @@
+{
+    "name": "Forestry",
+    "read_by_default": "true",
+    "icon": "forestry:sapling",
+    "category": "modwikis",
+	"sortnum": "9",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Forestry",
+      "item": "forestry:sapling",
+      "text": "Forestry deals with farming, renewable energy production as well as the breeding of trees, bees and butterflies in Minecraft.$(br2)$(l:https://minecraftguides.net/AS/)Forestry Wiki$(/l)$(br2)Note: It's highly Recommended you use a darkmode browser addon for the wiki."
+    },
+    {
+      "type": "text",
+      "title": "Important",
+      "text": "$(l)Cross-breeding:$(br)$()The dynamic version of the Forestry trees will NOT cross breed, if you want to breed trees you will need to use the non-dynamic version.$(br)After obtaining a new species, it can be made dynamic using the dirt-bucket recipe.$(br)$(l:modwikis/36_dynamictrees#dirtbucket)See here$(/l)$(br)Dynamic trees will also NOT be affected by genetic features like height.$(br2)See next page to get started."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "forestry:book_tree",
+      "recipe2": "forestry:book_honey"
+    },
+	{
+      "type": "crafting",
+      "recipe": "forestry:book_butterfly",
+      "text": "'The Forester's Manual' is given to you when you first join the server. If you lose this, refer to any of these crafting recipes to make another.$(br2)Besides the wiki, this manual is a convenient way to learn Forestry."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Tinkers Construct",
+    "read_by_default": "true",
+    "icon": "tconstruct:pickaxe",
+    "category": "modwikis",
+	"sortnum": "10",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Tinkers Construct",
+      "item": "tconstruct:pickaxe",
+      "text": "Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Many different materials can be used to make your tools.$(br2)$(l:https://tinkers-construct-2.fandom.com/wiki/Tinkers%27_Construct_2_Wiki)Tinkers Construct Wiki$(/l)"
+    },
+	{
+      "type": "spotlight",
+      "title": "Getting Started",
+      "item": "tconstruct:book",
+      "text": "Upon joining, you were given some books titled Materials and you.$(br)These is your guides to knowing how create everything with Tinkers construct, make sure you refer to them and keep them safe!$(br)If you happen to lose these books, please refer to the next page in this guides entry for crafting recipes."
+    },
+	{
+      "type": "crafting",
+      "title": "Crafting a new book",
+      "recipe": "tconstruct:tools/pattern",
+      "text": "First you must create a pattern, with this, combine it with a book to create a new manual. for armory, use the next recipe."
+    },
+	{
+      "type": "crafting",
+      "title": "Recipes",
+      "recipe": "tconstruct:common/book",
+      "recipe2": "conarm:book"
+    },
+	{
+      "type": "relations",
+      "title": "Addons",
+      "text": "These are the installed addons for Tinkers Construct.",
+        "entries": [
+          "modwikis_addons_tinkersconstruct/1_constructsarmory",
+          "modwikis_addons_tinkersconstruct/2_tinkersalloying",
+          "modwikis_addons_tinkersconstruct/3_tinkersaether",
+          "modwikis_addons_tinkersconstruct/4_tinkerscomplement",
+          "modwikis/11_natura"
+        ]
+    }
+  ]
+}

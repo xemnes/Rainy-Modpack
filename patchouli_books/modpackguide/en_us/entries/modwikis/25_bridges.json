@@ -1,0 +1,36 @@
+{
+    "name": "Macaw's Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:rope_spruce_bridge",
+    "category": "modwikis",
+	"sortnum": "25",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "RailCraft",
+      "item": "mcwbridges:rope_spruce_bridge",
+      "text": "A simple mod that adds various bridges. This is mainly a companion mod to RailCraft to make railways prettier but can be used for all kids of purposes."
+    },
+	{
+      "type": "image",
+	  "title": "Getting Started",
+	  "border": "true",
+      "images": [ "modpackguide:textures/mcawbridges.png" ],
+      "text": "The next few pages will show you the recipes for each bridge type."
+    },
+	{
+      "type": "relations",
+      "title": "Recipes",
+      "text": "These are the bridge types and recipes for Macaw's Bridges",
+        "entries": [
+          "modwikis_sub_bridges/1_iron",
+          "modwikis_sub_bridges/2_wood",
+          "modwikis_sub_bridges/3_rope",
+          "modwikis_sub_bridges/4_stone",
+          "modwikis_sub_bridges/5_rail",
+          "modwikis_sub_bridges/6_powered",
+          "modwikis_sub_bridges/7_end"
+        ]
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+{
+    "name": "Zanite",
+    "read_by_default": "true",
+    "icon": "aether_legacy:zanite_block",
+    "category": "subcategories_aethercont",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:zanite_door",
+      "recipe2": "aether_legacy_addon:zanite_trapdoor"
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:zanite_bars",
+      "recipe2": "aether_legacy_addon:zanite_pressure_plate"
+	}
+  ]
+} 

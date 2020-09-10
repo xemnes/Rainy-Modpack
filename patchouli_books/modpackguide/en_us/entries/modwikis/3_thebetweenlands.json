@@ -1,0 +1,21 @@
+{
+    "name": "The Betweenlands",
+    "read_by_default": "true",
+    "icon": "thebetweenlands:swamp_grass",
+    "category": "modwikis",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "The Betweenlands",
+      "item": "thebetweenlands:swamp_grass",
+      "text": "This large and expansive mod adds a whole new hostile dimension to Minecraft along with its own blocks, mobs, items and even music. $(br2)$(l:https://the-betweenlands.fandom.com/wiki/The_Betweenlands_Wiki)The Betweenlands Wiki$(/l)"
+    },
+	{
+      "type": "spotlight",
+      "title": "How to get there",
+      "item": "thebetweenlands:swamp_Talisman",
+      "text": "To get to The Betweenlands dimension, you need to acquire a swamp talisman.$(br)In order to do this, you must find a druid circle located in a swamp biome and collect 4 unique talisman pieces and use the altar there to combine them.$(br)Once this is done, find a large space and use the talisman on any sapling to create a portal."
+    }
+  ]
+}

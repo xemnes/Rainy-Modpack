@@ -1,0 +1,29 @@
+{
+    "name": "Decorative Graves",
+    "read_by_default": "true",
+    "icon": "tombstone:decorative_grave_simple",
+    "category": "subcategories_tombstone",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "tombstone:decorative_grave_simple_black",
+      "recipe2": "tombstone:decorative_grave_simple_white"
+    },
+	{
+      "type": "crafting",
+      "recipe": "tombstone:decorative_grave_normal_black",
+      "recipe2": "tombstone:decorative_grave_normal_white"
+    },
+	{
+      "type": "crafting",
+      "recipe": "tombstone:decorative_grave_cross_black",
+      "recipe2": "tombstone:decorative_grave_cross_white"
+    },
+	{
+      "type": "crafting",
+      "recipe": "tombstone:decorative_tombstone_black",
+      "recipe2": "tombstone:decorative_tombstone_white"
+    }
+  ]
+} 

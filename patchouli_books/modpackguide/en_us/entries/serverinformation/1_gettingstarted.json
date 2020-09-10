@@ -1,0 +1,19 @@
+{
+    "name": "Getting Started",
+    "read_by_default": "true",
+    "icon": "modpackguide:textures/icons/forgeenergy.png",
+    "category": "serverinformation",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Forge Energy (FE)",
+      "item": "enderio:item_power_conduit",
+      "text": "Forge Energy (FE) is an energy API that was added to the Forge project in Minecraft version 1.12. It offers an energy system functionally equivalent to Redstone Flux (RF).$(br)Several mods that use FE choose to rename their power units."
+    },
+	{
+      "type": "text",
+      "text": "In general, Forge Energy converts 1:1 with most mods, but the power conversion has to be done using another mod if a mod doesnt support it.$(br2)Note that some mods handle the RF <-> FE themselves like immersive engineering and encourages other RF mods to do so as well.$(br2)If a mod doesnt support$(br)RF <-> FE Conversion, you can use $(l:modwikis/21_energyconverters)Energy Converters$(/l)"
+    }
+  ]
+} 

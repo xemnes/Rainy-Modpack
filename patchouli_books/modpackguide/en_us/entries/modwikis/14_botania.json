@@ -1,0 +1,21 @@
+{
+    "name": "Botania",
+    "read_by_default": "true",
+    "icon": "botania:lexicon",
+    "category": "modwikis",
+	"sortnum": "14",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Botania",
+      "item": "botania:lexicon",
+      "text": "Botania is centered around generating and harnessing the magical energy produced by mystical flowers.$(br)Botania's documentation book, the Lexica Botania, displays crafting recipes and explains nearly everything about Botania in-game.$(br2)$(l:https://ftb.gamepedia.com/Botania)Botania Wiki$(/l)"
+    },
+	{
+      "type": "crafting",
+      "title": "The Lexica Botania",
+      "recipe": "botania:lexicon",
+      "text": "The lexicon is given to you when you first join the server. If you happen to lose this, refer to the crafting recipe above.$(br)Any sapling from any mod can be used in the recipe."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Redstone Flux (RF)",
+    "read_by_default": "true",
+    "icon": "minecraft:redstone",
+    "category": "modinformation",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Redstone Flux (FE)",
+      "item": "minecraft:redstone",
+      "text": "Redstone Flux (RF) is essentially the energy that flows through redstone.$(br2)RF acts as a highly simplified form of energy that is designed to be easy to use. A few mods in this modpack takes advantage of Redstone Flux energy"
+    },
+	{
+      "type": "text",
+      "title": "Conversion",
+      "text": "Redstone Flux for some mods require conversion if you want to use Forge Energy or anything equivalent. you can use $(l:modwikis/21_energyconverters)Energy Converters$(/l)"
+    }
+  ]
+} 

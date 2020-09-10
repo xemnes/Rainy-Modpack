@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "mca:rose_gold_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/mca/rosegold",
+    "lightValue": -1,
+    "alphaOverlay": true,
+    "oreDirectories": []
+  }
+]

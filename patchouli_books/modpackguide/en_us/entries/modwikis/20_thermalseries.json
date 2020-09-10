@@ -1,0 +1,20 @@
+{
+    "name": "Thermal Series",
+    "read_by_default": "true",
+    "icon": "thermalfoundation:meter",
+    "category": "modwikis",
+	"sortnum": "20",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thermal Series",
+      "item": "thermalfoundation:meter",
+      "text": "The Thermal Series is a set of mods that adds machines, tools, the processing of resources and the generation and storage of energy in the form of Redstone Flux. Basic machines can be upgraded to 4 higher tiers, each adding features and functionality and can be further improved with Augments for added configuration and efficiency."
+    },
+	{
+      "type": "text",
+      "title": "The Modules",
+      "text": "$(l)- Thermal Foundation$()$(br)The Core tools & materials$(br)$(l:https://teamcofh.com/docs/1.12/thermal-foundation/)Documentation$(/l)$(br2)$(l)- Thermal Expansion$()$(br)Processing, energy & storage$(br)$(l:https://teamcofh.com/docs/1.12/thermal-expansion/)Documentation$(/l)$(br2)$(l)- Thermal Dynamics$()$(br)Energy & material Transport$(br)$(l:https://teamcofh.com/docs/1.12/thermal-dynamics/)Documentation$(/l)$(br2)$(l)- Thermal Innovation$()$(br)Gadgets & tools$(br)$(l:https://teamcofh.com/docs/1.12/thermal-innovation/)Documentation$(/l)"
+    }
+  ]
+} 

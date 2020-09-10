@@ -1,0 +1,21 @@
+{
+    "name": "Thaumic Inventory Scan",
+    "read_by_default": "true",
+    "icon": "thaumcraft:thaumometer",
+    "category": "addons",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thaumic Inventory Scan",
+      "item": "thaumcraft:thaumometer",
+      "text": "This mod lets you scan items in your inventory for aspects without having to drop them on the ground first.$(br2)Pick up your Thaumometer and hold it over the item to scan right in your inventory."
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/thaumicscan.png" ],
+      "text": "Pretty convenient!"
+    }
+  ]
+}

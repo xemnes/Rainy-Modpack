@@ -1,0 +1,20 @@
+{
+    "name": "What's That Slot?",
+    "read_by_default": "true",
+    "icon": "modpackguide:textures/icons/whatslot.png",
+    "category": "modinformation",
+	"sortnum": "5",
+  "pages": [
+	{
+      "type": "image",
+      "title": "What's That Slot?",
+	  "border": "true",
+      "images": [ "modpackguide:textures/whatslot.png" ]
+    },
+	{
+      "type": "text",
+      "title": "information",
+      "text": "What's That Slot? is a mod that shows what items can go in a slot. Useful when you dont know what a slot does or youre looking for items to put in a slot.$(br2)To use, press $(k:Check Slot) whilst hovering over a lot to bring up the 'What's That Slot?' list which contains every possible item that can go in that slot.$(br2)The keybind can be changed in controls."
+    }
+  ]
+} 

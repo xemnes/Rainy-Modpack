@@ -1,0 +1,86 @@
+{
+    "name": "Dynamic Trees",
+    "read_by_default": "true",
+    "icon": "dynamictrees:oakseed",
+    "category": "modwikis",
+	"sortnum": "35",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Dynamic Trees",
+      "item": "dynamictrees:oakseed",
+      "text": "Dynamic Trees Completely overhauls vanilla trees by replacing them with trees that grow over time and are aware of their surroundings during growth. Dynamic Trees also look more realistic with branches and trunks.$(br2)Information and recipes can be found on the next pages."
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/dynamictrees.png" ],
+      "text": "A Dynamic Birch Tree"
+    },
+	{
+      "type": "text",
+      "title": "Tree Features",
+      "text": "- Trees grow progressively from seeds to mature trees over time.$(br2)- Trees grow around obstacles in a natural way.$(br2)- Trees have growth rate and mature sizes that are biome, temperature and rainfall dependent.$(br2)- Drop seeds at random that can potentially plant themselves."
+    },
+	{
+      "type": "text",
+      "text": "- Trees won't grow in darkness. Leaves not connected to an outer tree branch or starved of light will die. Outer branches without leaves slowly rot away.$(br2)- Walking on leaves blocks is slow and sinking. Falling onto leaves prevents fall damage and breaks the leaf block.$(br2)- Vanilla Tree Fruits(apples, cocoa beans)$(br2)- Thin branches can be climbed like ladders."
+    },
+	{
+      "type": "text",
+      "title": "Rooty Soil",
+      "text": "- Provides nutrients to trees and can be depleted over time.$(br2)- Applied with bone meal will increase soil fertility and allows the tree to grow past its mature state.$(br2)- Applied with various brewed potions for different effects."
+    },
+	{
+      "type": "text",
+      "text": "- Special effect particles are created on the entire tree when an acting substance is applied to the soil or bottom-most trunk block.$(br2)- Comparators can be used to sense soil fertility level."
+    },
+	{
+      "type": "brewing",
+      "title": "Potions",
+      "ingredient": "minecraft:coal:1",
+      "bottle": "minecraft:potion{Potion:'minecraft:awkward'}",
+      "output": "dynamictrees:dendropotion",
+      "text": "This is the brewing recipe for the base potion.$(br2)all proceeding brewing recipes use this potion."
+    },
+	{
+      "type": "brewing",
+      "title": "Potion of Depletion",
+      "ingredient": "minecraft:slime_ball",
+      "bottle": "dynamictrees:dendropotion",
+      "output": "dynamictrees:dendropotion:1",
+      "text": "This potion depletes the soil and causes the tree to stop growing."
+    },
+	{
+      "type": "brewing",
+      "title": "Potion of Burgeoning",
+      "ingredient": "minecraft:ghast_tear",
+      "bottle": "dynamictrees:dendropotion",
+      "output": "dynamictrees:dendropotion:3",
+      "text": "This potion causes the tree to rapidly grow."
+    },
+	{
+      "type": "brewing",
+      "title": "Potion of Fertility",
+      "ingredient": "minecraft:fish",
+      "bottle": "dynamictrees:dendropotion",
+      "output": "dynamictrees:dendropotion:4",
+      "text": "This potion fully fertilizes the soil."
+    },
+	{
+      "type": "brewing",
+      "title": "Potion of Transformation",
+      "ingredient": "dynamictrees:oakseed",
+      "bottle": "dynamictrees:dendropotion",
+      "output": "dynamictrees:dendropotion:6",
+      "text": "This potion changes an existing tree into another tree species.$(br2)The species of tree depends on the seed you use in the recipe. The example uses an Oak Acorn."
+    },
+	{
+      "type": "crafting",
+      "title": "Sapling/Seed Convert",
+	  "anchor": "dirtbucket",
+      "recipe": "dynamictrees:dirtbucket",
+      "text": "Dirt Buckets are used to convert a seed to a sapling and vice versa.$(br2)place the dirt bucket and the seed or sapling in a crafting table to convert. The recipe is shapeless."
+    }
+  ]
+} 

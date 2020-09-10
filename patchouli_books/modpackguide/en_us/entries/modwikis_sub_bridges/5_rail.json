@@ -1,0 +1,24 @@
+{
+    "name": "Rail Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:oak_rail_bridge",
+    "category": "subcategories_bridges",
+	"sortnum": "5",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:oak_rail_bridge",
+      "recipe2": "mcwbridges:birch_rail_bridge"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:spruce_rail_bridge",
+      "recipe2": "mcwbridges:jungle_rail_bridge"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:dark_oak_rail_bridge",
+      "recipe2": "mcwbridges:acacia_rail_bridge"
+    }
+  ]
+} 

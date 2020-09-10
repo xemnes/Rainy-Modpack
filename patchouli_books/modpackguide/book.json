@@ -1,0 +1,8 @@
+{
+	"name": "Rainycraft Guidebook",
+	"landing_text": "$(l)Welcome to the Rainycraft Modpack and Server!$(br2)$()This modpack adds tonnes of new mechanics, world additions, dimensions, mobs and dungeons!$(br2)To get started, have a look at the categories for more information on the mods and links to their respective wikis.",
+	"version": 2,
+	"book_texture": "patchouli:textures/gui/book_purple.png",
+	"model": "patchouli:book_purple",
+	"show_progress": "false"
+}

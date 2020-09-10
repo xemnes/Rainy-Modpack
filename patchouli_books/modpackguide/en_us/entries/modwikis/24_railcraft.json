@@ -1,0 +1,20 @@
+{
+    "name": "RailCraft",
+    "read_by_default": "true",
+    "icon": "railcraft:track_flex_high_speed",
+    "category": "modwikis",
+	"sortnum": "24",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "RailCraft",
+      "item": "railcraft:track_flex_high_speed",
+      "text": "Have you ever wished trains and rails had received a bit more attention during the development of Minecraft? Well that ends now! in their place are a ton of new cool tools to build your giant rail system. If you ever cared about train tracks and what you make, you won't ever look back!$(br2)$(l:http://railcraft.info/wiki/start)Railcraft Wiki$(/l)"
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "$(l)- Cheaper Tracks$()$(br)64 Tracks for every 6 iron.$(br)$(l)- Crowbar$()$(br)Rapid rail adjustment.$(br)$(l)- Tunnel Bore$()$(br)Avoid the monotony of digging perfect tunnels!$(br)$(l)- Cart Linking$()$(br)Make a real train!$(br)$(l)- High Speed Rails$()$(br)Get there faster!$(br)$(l)- Detector Blocks$()$(br)More control over your carts.$(br2)- Plus loads more!"
+    }
+  ]
+} 

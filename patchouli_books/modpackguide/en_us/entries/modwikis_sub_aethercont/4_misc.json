@@ -1,0 +1,24 @@
+{
+    "name": "Miscelaneous",
+    "read_by_default": "true",
+    "icon": "aether_legacy:ambrosium_block",
+    "category": "subcategories_aethercont",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:aetherium_core",
+      "recipe2": "aether_legacy_addon:aetherion_chest"
+	},
+	{
+      "type": "text",
+      "title": "Aetherion Chest",
+      "text": "this chest works like an Enderchest but uses its own inventory.$(br)This means you can have both an Enderchest and an Aetherion chest together."
+	},
+	{
+      "type": "crafting",
+      "recipe": "aether_legacy_addon:quicksoil_glass_pane",
+      "recipe2": "aether_legacy_addon:ambrosium_block"
+	}
+  ]
+} 

@@ -1,0 +1,21 @@
+{
+    "name": "Immersive Technology",
+    "read_by_default": "true",
+    "icon": "immersivetech:valve",
+    "category": "addons",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Immersive Technology",
+      "item": "immersivetech:valve",
+      "text": "An addon which adds a new method to produce energy (RF) using the Sun, and a Boiler for Immersive Engineering."
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "conarm:book",
+      "text": "Refer to your 'Materials and you - Armory Ammendum'. If you lose this, the crafting recipe to make another can be found above."
+    }
+  ]
+}

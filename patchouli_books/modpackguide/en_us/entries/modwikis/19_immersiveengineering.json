@@ -1,0 +1,32 @@
+{
+    "name": "Immersive Engineering",
+    "read_by_default": "true",
+    "icon": "immersiveengineering:toolbox",
+    "category": "modwikis",
+	"sortnum": "19",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Immersive Engineering",
+      "item": "immersiveengineering:toolbox",
+      "text": "Adds new Redstone Flux (RF) based machinery with a retro-futuristic feeling to the game, and many of the machines are a multiblock structure. Machines use either low, medium or high voltages&(br)The mod also features Power Generation in forms of wind, biodiesel and more.$(br2)$(l:https://ftb.gamepedia.com/Getting_Started_(Immersive_Engineering))Immersive Engineering Wiki$(/l)"
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "immersiveengineering:tool/manual",
+      "text": "A Manual was given to you when you joined the server, it has everything you need to know about the mod. if you lose it, consult the recipe above."
+    },
+	{
+      "type": "relations",
+      "title": "Addons",
+      "text": "These are the installed addons for Thaumcraft.",
+        "entries": [
+          "modwikis_addons_immersiveengineering/1_immersivetechnology",
+          "modwikis_addons_immersiveengineering/2_immersivepetroleum",
+          "modwikis_addons_immersiveengineering/3_immersviecables",
+          "modwikis_addons_immersiveengineering/4_engineersdoors"
+        ]
+    }
+  ]
+} 

@@ -1,0 +1,21 @@
+{
+    "name": "Astral Sorcery",
+    "read_by_default": "true",
+    "icon": "astralsorcery:itemhandtelescope",
+    "category": "modwikis",
+	"sortnum": "8",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Astral Sorcery",
+      "item": "astralsorcery:itemhandtelescope",
+      "text": "Astral Sorcery is a magical mod for Minecraft based on the night sky that helps you harness the power of Constellations to empower your weapons and armor and the world around you.$(br2)$(l:https://minecraftguides.net/AS/)Astral Sorcery Guide$(/l)"
+    },
+    {
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "astralsorcery:shaped/journal",
+      "text": "Upon joining, you were given an astral tome. This is your main tool for progression in Astral Sorcery.$(br2)If you happen to lose this, Refer to the above recipe to create another."
+    }
+  ]
+}

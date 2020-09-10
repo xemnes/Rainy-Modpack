@@ -1,0 +1,6 @@
+{
+	"name": "Server Information",
+	"sortnum": "1",
+	"description": "Information about the Server such as rules, commands and permissions.",
+	"icon": "modpackguide:textures/icons/category_server.png"
+}

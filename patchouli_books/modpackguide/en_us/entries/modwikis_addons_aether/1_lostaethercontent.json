@@ -1,0 +1,21 @@
+{
+    "name": "Aether: Lost Content",
+    "read_by_default": "true",
+    "icon": "lost_aether:light_gale_stone",
+    "category": "addons",
+	"sortnum": "1",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Aether: Lost Content",
+      "item": "lost_aether:light_gale_stone",
+      "text": "An addon which adds more content to the aether such as The Platinum Dungeon"
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "aether_legacy:book_of_lore",
+      "text": "Refer to the Book of Lore for more information. If you lose this, the crafting recipe to make another can be found above."
+    }
+  ]
+}

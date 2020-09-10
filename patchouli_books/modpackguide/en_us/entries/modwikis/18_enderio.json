@@ -1,0 +1,21 @@
+{
+    "name": "EnderIO",
+    "read_by_default": "true",
+    "icon": "enderio:item_mod_item_filter",
+    "category": "modwikis",
+	"sortnum": "18",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "EnderIO",
+      "item": "enderio:item_mod_item_filter",
+      "text": "Ender IO is a large, ender-themed mod that combines technology with magic. The mod is centered on various kinds of teleportation and adds many different machines and items for all purposes, including ore processing, farming mobs, transport, automation, and player progression.$(br2)$(l:https://github.com/SleepyTrousers/EnderIO/wiki)EnderIO Wiki$(/l)"
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/enderio.png" ],
+      "text": "A Teleport pad can be used to teleport multiple players at the same time."
+    }
+  ]
+} 

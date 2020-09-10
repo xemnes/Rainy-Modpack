@@ -1,0 +1,20 @@
+{
+    "name": "ComputerCraft",
+    "read_by_default": "true",
+    "icon": "computercraft:computer",
+    "category": "modwikis",
+	"sortnum": "16",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "ComputerCraft",
+      "item": "computercraft:computer",
+      "text": "ComputerCraft adds Computers, Monitors, Modems, Turtles and more! ComputerCraft's Computers and Turtles are programmed with the easy-to-learn Lua programming language. You can use Redstone and RedPower alongside your devices for the best experience."
+    },
+	{
+      "type": "text",
+      "title": "Getting Started",
+      "text": "ComputerCraft has several documentations you can refer to$(br2)$(l:http://www.computercraft.info/wiki/Main_Page)ComputerCraft Wiki$(/l)$(br2)$(l:https://wiki.computercraft.cc/Main_Page)CCTweaked Wiki (incomplete)$(/l)$(br2)$(l:https://tweaked.cc/)Documentation of functions$(/l)"
+    }
+  ]
+} 

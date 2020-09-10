@@ -1,0 +1,30 @@
+{
+    "name": "OpenComputers",
+    "read_by_default": "true",
+    "icon": "opencomputers:case1",
+    "category": "modwikis",
+	"sortnum": "17",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "OpenComputers",
+      "item": "opencomputers:case1",
+      "text": "OpenComputers is a ComputerCraft complimentary mod which adds more advanced computers that can be programed with Lua. Alongside Computronics, both mods are bridged.$(br2)$(l:https://ocdoc.cil.li/)OpenComputers Wiki$(/l)$(br2)$(l:https://oc.cil.li/forum/34-programs/)Community made programs$(/l)"
+    },
+	{
+      "type": "text",
+      "title": "Getting Started",
+      "text": "OpenComputers can be learned either from the ingame manual or the online documentation, both are as equally useful. Computronics information can be found in the manual.$(br2)Recipe to craft another manual is on the next page if you happen to lose it."
+    },
+	{
+      "type": "crafting",
+      "recipe": "opencomputers:material35",
+      "recipe2": "opencomputers:material36"
+    },
+	{
+      "type": "crafting",
+      "recipe": "opencomputers:tool58",
+      "text": "Crafting a new manual is unfortunately a little expensive. You will need a microchip which requires a transistor to make it."
+    }
+  ]
+} 

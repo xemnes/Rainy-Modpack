@@ -1,0 +1,43 @@
+{
+    "name": "Chisel",
+    "read_by_default": "true",
+    "icon": "chisel:chisel_iron",
+    "category": "modwikis",
+	"sortnum": "31",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Chisel",
+      "item": "chisel:chisel_iron",
+      "text": "$(l)(Not to be confused with Chisels & bits)$()$(br2)Chisel adds a huge variety of decorative blocks to the game. The mod is very useful for people who like the construction aspect of Minecraft.$(br)Access to new blocks is provided mostly through one tool, the chisel."
+    },
+	{
+      "type": "crafting",
+      "title": "Crafting a chisel",
+      "recipe": "chisel:chisel_iron",
+      "recipe2": "chisel:chisel_diamond"
+    },
+	{
+      "type": "crafting",
+      "title": "The iChisel",
+      "recipe": "chisel:chisel_hitech",
+      "text": "A more sophisticated version of the Chisel tool, named the iChisel. It is spring-loaded with many helpful features and chisel modes. Experiment around with it! :)"
+    },
+	{
+      "type": "crafting",
+      "title": "The Ender Offset Wand",
+      "recipe": "chisel:offsettool",
+      "text": "Some blocks have a texture that spans over multiple blocks.$(br)The Ender Offset Wand can be used to shift a texture up or down and left or right."
+    },
+	{
+      "type": "image",
+      "title": "The Chisel GUI",
+      "images": [ "modpackguide:textures/chisel.png" ]
+    },
+	{
+      "type": "text",
+      "title": "Usage",
+      "text": "The core of this mod is centered around the chisel GUI by right clicking a chisel. $(b2)Place a block in the chiseling slot (top left) and it will list variants of the block in the same group. conversion is 1:1 and can be contiually chiseled at any time. Chisels durability is used up on every conversion."
+    }
+  ]
+}

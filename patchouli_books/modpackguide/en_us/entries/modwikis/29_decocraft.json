@@ -1,0 +1,21 @@
+{
+    "name": "MrCrayfish's Furniture",
+    "read_by_default": "true",
+    "icon": "cfm:couch:14",
+    "category": "modwikis",
+	"sortnum": "29",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "MrCrayfish's Furniture",
+      "item": "cfm:couch:14",
+      "text": "This mod adds in what Minecraft has been missing for years, furniture! It includes over 80 unique pieces of furniture to decorate your bedroom, kitchen, living room and even your garden! Turn your house into the dream house you have never been able to have until now."
+    },
+	{
+      "type": "image",
+	  "border": "true",
+      "images": [ "modpackguide:textures/furniture.png" ],
+      "text": "$(l:https://mrcrayfishs-furniture-mod.fandom.com/wiki/Furniture_List_(1.12.2%29)Furniture List$(/l)$(br2)$(l:https://mrcrayfishs-furniture-mod.fandom.com/wiki/Recipe_List_(1.12.2%29)Recipe List$(/l)"
+    }
+  ]
+} 

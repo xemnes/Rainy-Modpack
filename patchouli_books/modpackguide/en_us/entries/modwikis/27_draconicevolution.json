@@ -1,0 +1,21 @@
+{
+    "name": "Draconic Evolution",
+    "read_by_default": "true",
+    "icon": "draconicevolution:awakened_core",
+    "category": "modwikis",
+	"sortnum": "27",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Draconic Evolution",
+      "item": "draconicevolution:awakened_core",
+      "text": "Draconic Evolution is a mod designed to make endgame more worthwhile. Emphasis on 'endgame' as this mod requires an extreme amount of work to achieve the benefits.$(br)It adds new powerful tools, machines, and items. The mod's content is based around its ore block, Draconium Ore. This mod uses Redstone Flux (RF) for its energy systems"
+    },
+	{
+      "type": "crafting",
+      "title": "Getting Started",
+      "recipe": "draconicevolution:info_tablet",
+      "text": "The first thing you should do is consult $(l:https://ftb.gamepedia.com/Draconic_Evolution#Guides)The Wiki$(/l) for your first steps.$(br2)You were also given a tablet which opens an ingame guide, crafting recipe is above if you lose it."
+    }
+  ]
+} 

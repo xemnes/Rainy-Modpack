@@ -1,0 +1,31 @@
+{
+    "name": "Thaumic Grid",
+    "read_by_default": "true",
+    "icon": "thaumicgrid:thaumic_grid",
+    "category": "addons",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Thaumic Grid",
+      "item": "thaumicgrid:thaumic_grid",
+      "text": "This mod bridges Thaumcraft and Refined Storage by adding a new block called the Thaumic Grid.$(br2)The Thaumic grid works just like the Crafting Grid but it is the arcane workbench instead."
+    },
+	{
+      "type": "arcaneworkbench",
+      "title": "Arcane Recipe",
+      "vis": "200",
+      "aer": "#2",
+      "terra": "#2",
+      "ignis": "#2",
+      "aqua": "#2",
+      "ordo": "#2",
+      "perditio": "#2",
+      "output": "thaumicgrid:thaumic_grid",
+      "slot1": "refinedstorage:grid",
+      "slot2": "thaumcraft:arcane_workbench",
+      "slot4": "refinedstorage:processor:5",
+      "text": "$(l)Research req:$()First Steps"
+    }
+  ]
+}

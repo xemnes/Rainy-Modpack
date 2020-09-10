@@ -1,0 +1,24 @@
+{
+    "name": "Rope Bridges",
+    "read_by_default": "true",
+    "icon": "mcwbridges:rope_oak_bridge",
+    "category": "subcategories_bridges",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:oak_rope",
+      "recipe2": "mcwbridges:birch_rope"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:spruce_rope",
+      "recipe2": "mcwbridges:jungle_rope"
+    },
+	{
+      "type": "crafting",
+      "recipe": "mcwbridges:dark_oak_rope",
+      "recipe2": "mcwbridges:acacia_rope"
+    }
+  ]
+} 

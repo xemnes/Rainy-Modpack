@@ -1,0 +1,26 @@
+{
+    "name": "Aether Continuation",
+    "read_by_default": "true",
+    "icon": "aether_legacy:aetherion_chest",
+    "category": "addons",
+	"sortnum": "2",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Aether Continuation",
+      "item": "aether_legacy:aetherion_chest",
+      "text": "This addon adds many new blocks for the aether such as beds, doors, signs, pressure plates, cosmetic blocks, food & more."
+    },
+	{
+      "type": "relations",
+      "title": "Recipes",
+      "text": "All the recipes for the blocks are documented here, you can also use JEI.",
+        "entries": [
+          "modwikis_sub_aethercont/1_skyroot",
+          "modwikis_sub_aethercont/2_holystone",
+          "modwikis_sub_aethercont/3_zanite",
+          "modwikis_sub_aethercont/4_misc"
+        ]
+    }
+  ]
+}

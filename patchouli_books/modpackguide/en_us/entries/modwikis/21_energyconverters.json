@@ -1,0 +1,49 @@
+{
+    "name": "Energy Converters",
+    "read_by_default": "true",
+    "icon": "energyconverters:energy_bridge",
+    "category": "modwikis",
+	"sortnum": "21",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Energy Converters",
+      "item": "energyconverters:energy_bridge",
+      "text": "Energy Converters is an energy bridge that adds blocks which can convert energy from one type to another. It's mainly used to convert RF to Forge Energy types of power.$(br2)Read more about Forge Energy $(l:modinformation/1_forgeenergy)Here$(/l)"
+    },
+	{
+      "type": "text",
+	  "title": "Documentation",
+      "text": "Energy Converters provide you 3 different Block Types:$(br)Energy Consumers, Energy Producers and the Energy Bridge.$(br2)The next pages will go over each block type and how they work."
+    },
+	{
+      "type": "text",
+	  "title": "Energy Producer",
+      "text": "An Energy Producer will convert an energy to another type - just connect a cable or any machine to the producer and you are good to go."
+    },
+	{
+      "type": "crafting",
+      "recipe": "energyconverters:energy_producer_rf",
+      "recipe2": "energyconverters:energy_producer_fe"
+    },
+	{
+      "type": "text",
+	  "title": "Energy Consumer",
+      "text": "The Energy Consumer will consume energy from an energy source and store it inside an adjacent Energy Bridge."
+    },
+	{
+      "type": "crafting",
+      "recipe": "energyconverters:energy_consumer_rf",
+      "recipe2": "energyconverters:energy_consumer_fe"
+    },
+	{
+      "type": "text",
+	  "title": "Energy Bridge",
+      "text": "An energy bridge is used to store energy from a consumer and transfer it to a producer.$(br2)A single energy bridge supports up to 6 consumers and/or producers (1 per side) - but any consumer/producer may only connect to one bridge at a time"
+    },
+	{
+      "type": "crafting",
+      "recipe": "energyconverters:energy_Bridge"
+    }
+  ]
+} 

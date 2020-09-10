@@ -1,0 +1,44 @@
+{
+    "name": "Tablets",
+    "read_by_default": "true",
+    "icon": "tombstone:crafting_ingredient:1",
+    "category": "subcategories_tombstone",
+	"sortnum": "3",
+  "pages": [
+	{
+      "type": "crafting",
+      "recipe": "tombstone:strange_tablet",
+      "text": "The base tablet used for all the tablet types."
+    },
+	{
+      "type": "crafting",
+      "title": "Tablet of Recall",
+      "recipe": "tombstone:tablet_of_recall",
+      "text": "Used to teleport back to the grave it was activated by$(br2)Use on a soul to set that grave as your return point.$(br2)Use the tablet again when its glowing to teleport you back to that grave."
+    },
+	{
+      "type": "crafting",
+      "title": "Tablet of Home",
+      "recipe": "tombstone:tablet_of_home",
+      "text": "Used to teleport to your respawn point$(br2)Use on a soul to activate the tablet.$(br2)Use the tablet again when its glowing to teleport."
+    },
+	{
+      "type": "crafting",
+      "title": "Tablet of Assistance",
+      "recipe": "tombstone:tablet_of_assistance",
+      "text": "Used to teleport to another player$(br2)Use on a soul to activate the tablet, then use on an anvil with grave dust and write the player's name."
+    },
+	{
+      "type": "crafting",
+      "title": "Tablet of Cupidity",
+      "recipe": "tombstone:tablet_of_cupidity",
+      "text": "Teleports you to a dungeon. (Be prepared!)$(br2)Use on a soul to activate the tablet$(br2)Use the tablet again when its glowing to teleport."
+    },
+	{
+      "type": "spotlight",
+	  "title": "Lost Tablet",
+      "item": "tombstone:lost_tablet",
+      "text": "This tablet can only be found through unlucky fishing.$(br2)Use on a soul to activate the tablet when the tablet has found a nearby structure.$(br2)Use the tablet again when its glowing to teleport.$(br2)The tablet may break into dust after searching for too long."
+    }
+  ]
+} 

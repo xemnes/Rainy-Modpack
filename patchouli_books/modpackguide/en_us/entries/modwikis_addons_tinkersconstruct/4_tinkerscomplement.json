@@ -1,0 +1,20 @@
+{
+    "name": "Tinkers Complement",
+    "read_by_default": "true",
+    "icon": "tcomplement:melter",
+    "category": "addons",
+	"sortnum": "4",
+  "pages": [
+	{
+      "type": "spotlight",
+      "title": "Tinkers Complement",
+      "item": "tcomplement:melter",
+      "text": "Tinkers Complement is designed to add features to Tinkers Construct in a modular way, providing mod compatibility and features to help with modpacks."
+    },
+	{
+      "type": "text",
+      "title": "Features",
+      "text": "- Melter and Bucket Cast$(br2)- Alloy Tank$(br2)- Porcelain Casting$(br2)- High Oven$(br2)Refer to your 'Materials and you' book to find out how these features work."
+    }
+  ]
+}

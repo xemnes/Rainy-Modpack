@@ -1,0 +1,21 @@
+{
+    "name": "What Am I Looking At?",
+    "read_by_default": "true",
+    "icon": "modpackguide:textures/icons/waila.png",
+    "category": "modinformation",
+	"sortnum": "6",
+  "pages": [
+	{
+      "type": "text",
+      "title": "What Am I Looking At?",
+      "text": "What Am I Looking At? (WAILA) is a HUD tooltip addition that displays infomration on the thing youre looking at. It integrates with many mods, showing information such as health, energy, aspects and debug (if enabled).$(br2)Holding down shift/sneak in some circumstances can reveal information that is otherwise hidden which is intended to reduce bulk of the tooltip."
+    },
+	{
+      "type": "image",
+      "title": "Information",
+	  "border": "true",
+      "images": [ "modpackguide:textures/waila.png" ],
+      "text": "The tooltip can be customized under options > mod options."
+    }
+  ]
+} 
